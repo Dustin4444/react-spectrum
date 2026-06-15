@@ -9,7 +9,7 @@
     "@parcel/core": "^2.16.3",
     "@parcel/plugin": "^2.16.3",
     "dprint-node": "^1.0.7",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^4.2.0",
     "mdast-util-toc": "^6.1.0",
     "remark-frontmatter": "^4.0.1",
     "remark-slug": "^7.0.1",
