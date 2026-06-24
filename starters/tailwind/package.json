@@ -29,7 +29,7 @@
     "tailwindcss-animate": "^1.0.7",
     "tailwindcss-react-aria-components": "^2.0.1",
     "typescript": "^5.8.2",
-    "vite": "^5.0.10"
+    "vite": "^6.4.3"
   },
   "resolutions": {
     "@types/mime": "3.0.4",
