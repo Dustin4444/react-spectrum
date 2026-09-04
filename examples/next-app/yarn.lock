@@ -51,17 +51,17 @@ __metadata:
     "@babel/core": "npm:^7.24.3"
     "@internationalized/date": "npm:^3.12.2"
     "@react-spectrum/style-macro-s1": "npm:3.0.0-alpha.6"
-    "@react-types/shared": "npm:^3.35.0"
+    "@react-types/shared": "npm:^3.36.0"
     "@spectrum-icons/ui": "npm:^3.7.1"
     "@spectrum-icons/workflow": "npm:^4.3.1"
     "@swc/helpers": "npm:^0.5.0"
     client-only: "npm:^0.0.1"
     clsx: "npm:^2.0.0"
     react: "npm:^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
-    react-aria: "npm:3.49.0"
-    react-aria-components: "npm:1.18.0"
+    react-aria: "npm:3.50.0"
+    react-aria-components: "npm:1.19.0"
     react-dom: "npm:^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
-    react-stately: "npm:3.47.0"
+    react-stately: "npm:3.48.0"
     react-transition-group: "npm:^4.4.5"
     use-sync-external-store: "npm:^1.6.0"
   peerDependencies:
@@ -3459,7 +3459,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@parcel/types@npm:2.16.4":
+"@parcel/types@npm:2.16.4, @parcel/types@npm:^2.16.3":
   version: 2.16.4
   resolution: "@parcel/types@npm:2.16.4"
   dependencies:
@@ -4484,23 +4484,23 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@react-spectrum/ai@workspace:../../packages/@react-spectrum/ai"
   dependencies:
+    "@internationalized/date": "npm:^3.12.2"
+    "@internationalized/number": "npm:^3.6.7"
     "@react-aria/test-utils": "npm:^1.0.0-alpha.8"
+    "@react-spectrum/s2": "npm:1.5.1"
+    "@react-types/shared": "npm:^3.36.0"
     "@storybook/jest": "npm:^0.2.3"
     "@testing-library/dom": "npm:^10.1.0"
     "@testing-library/react": "npm:^16.0.0"
     "@testing-library/user-event": "npm:^14.0.0"
     react: "npm:^19.0.0-rc.1"
+    react-aria: "npm:3.50.0"
+    react-aria-components: "npm:1.19.0"
     react-dom: "npm:^19.0.0-rc.1"
+    react-stately: "npm:3.48.0"
   peerDependencies:
-    "@internationalized/date": ^3.12.2
-    "@internationalized/number": ^3.6.7
-    "@react-spectrum/s2": ^1.4.0
-    "@react-types/shared": ^3.35.0
     react: ^19.0.0-rc.1
-    react-aria: 3.49.0
-    react-aria-components: 1.18.0
     react-dom: ^19.0.0-rc.1
-    react-stately: 3.47.0
   languageName: unknown
   linkType: soft
 
@@ -4640,7 +4640,7 @@ __metadata:
     "@babel/parser": "npm:^7.24.5"
     "@babel/traverse": "npm:^7.24.5"
     "@babel/types": "npm:^7.24.5"
-    "@react-spectrum/s2": "npm:1.4.0"
+    "@react-spectrum/s2": "npm:1.5.1"
     "@react-types/shared": "npm:^3.34.0"
     "@types/jscodeshift": "npm:^0.11.11"
     "@types/node": "npm:^24"
@@ -4826,7 +4826,7 @@ __metadata:
   dependencies:
     "@swc/helpers": "npm:^0.5.0"
     react: "npm:^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
-    react-aria-components: "npm:^1.18.0"
+    react-aria-components: "npm:1.19.0"
     react-dom: "npm:^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
   peerDependencies:
     react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
@@ -5203,7 +5203,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@react-spectrum/s2@npm:1.4.0, @react-spectrum/s2@npm:^1.0.0, @react-spectrum/s2@workspace:../../packages/@react-spectrum/s2":
+"@react-spectrum/s2@npm:1.5.1, @react-spectrum/s2@npm:^1.0.0, @react-spectrum/s2@workspace:../../packages/@react-spectrum/s2":
   version: 0.0.0-use.local
   resolution: "@react-spectrum/s2@workspace:../../packages/@react-spectrum/s2"
   dependencies:
@@ -5212,16 +5212,16 @@ __metadata:
     "@internationalized/number": "npm:^3.6.7"
     "@parcel/macros": "npm:^2.16.3"
     "@react-aria/test-utils": "npm:^1.0.0-alpha.8"
-    "@react-types/shared": "npm:^3.35.0"
+    "@react-types/shared": "npm:^3.36.0"
     "@storybook/jest": "npm:^0.2.3"
     "@testing-library/dom": "npm:^10.1.0"
     "@testing-library/react": "npm:^16.0.0"
     "@testing-library/user-event": "npm:^14.0.0"
     react: "npm:^19.0.0-rc.1"
-    react-aria: "npm:3.49.0"
-    react-aria-components: "npm:1.18.0"
+    react-aria: "npm:3.50.0"
+    react-aria-components: "npm:1.19.0"
     react-dom: "npm:^19.0.0-rc.1"
-    react-stately: "npm:3.47.0"
+    react-stately: "npm:3.48.0"
   peerDependencies:
     react: ^19.0.0-rc.1
     react-dom: ^19.0.0-rc.1
@@ -5370,7 +5370,7 @@ __metadata:
   dependencies:
     "@adobe/react-spectrum": "npm:^3.46.2"
     "@react-aria/ssr": "npm:^3.0.0"
-    "@react-spectrum/test-utils": "npm:1.0.0-rc.0"
+    "@react-spectrum/test-utils": "npm:1.0.0-rc.1"
     "@react-spectrum/theme-default": "npm:^3.5.13"
     "@swc/helpers": "npm:^0.5.0"
     "@testing-library/dom": "npm:^10.1.0"
@@ -5389,7 +5389,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@react-spectrum/test-utils@npm:1.0.0-rc.0, @react-spectrum/test-utils@workspace:../../packages/@react-spectrum/test-utils":
+"@react-spectrum/test-utils@npm:1.0.0-rc.1, @react-spectrum/test-utils@workspace:../../packages/@react-spectrum/test-utils":
   version: 0.0.0-use.local
   resolution: "@react-spectrum/test-utils@workspace:../../packages/@react-spectrum/test-utils"
   dependencies:
@@ -6558,7 +6558,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@react-types/shared@npm:^3.30.0, @react-types/shared@npm:^3.34.0, @react-types/shared@npm:^3.35.0, @react-types/shared@workspace:../../packages/@react-types/shared":
+"@react-types/shared@npm:^3.30.0, @react-types/shared@npm:^3.34.0, @react-types/shared@npm:^3.36.0, @react-types/shared@workspace:../../packages/@react-types/shared":
   version: 0.0.0-use.local
   resolution: "@react-types/shared@workspace:../../packages/@react-types/shared"
   dependencies:
@@ -12433,14 +12433,14 @@ __metadata:
   linkType: hard
 
 "js-yaml@npm:^3.13.1":
-  version: 3.14.1
-  resolution: "js-yaml@npm:3.14.1"
+  version: 3.15.0
+  resolution: "js-yaml@npm:3.15.0"
   dependencies:
     argparse: "npm:^1.0.7"
     esprima: "npm:^4.0.0"
   bin:
     js-yaml: bin/js-yaml.js
-  checksum: 10c0/6746baaaeac312c4db8e75fa22331d9a04cccb7792d126ed8ce6a0bbcfef0cedaddd0c5098fade53db067c09fe00aa1c957674b4765610a8b06a5a189e46433b
+  checksum: 10c0/ca966bd354ac5b1b7a4694ebdba46526796aa3a6a99529fa540af2abf85918bd155a50ccc0166b413130a00622999973754458ec01e7095bc902177bfdbd5b64
   languageName: node
   linkType: hard
 
@@ -14900,6 +14900,15 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"parcel-reporter-turbosnap-stats@npm:0.0.0, parcel-reporter-turbosnap-stats@workspace:../../packages/dev/parcel-reporter-turbosnap-stats":
+  version: 0.0.0-use.local
+  resolution: "parcel-reporter-turbosnap-stats@workspace:../../packages/dev/parcel-reporter-turbosnap-stats"
+  dependencies:
+    "@parcel/plugin": "npm:^2.16.3"
+    "@parcel/types": "npm:^2.16.3"
+  languageName: unknown
+  linkType: soft
+
 "parcel-resolver-build@workspace:../../packages/dev/parcel-resolver-build":
   version: 0.0.0-use.local
   resolution: "parcel-resolver-build@workspace:../../packages/dev/parcel-resolver-build"
@@ -15490,26 +15499,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-aria-components@npm:1.18.0, react-aria-components@npm:^1.18.0, react-aria-components@npm:^1.7.1, react-aria-components@workspace:../../packages/react-aria-components":
+"react-aria-components@npm:1.19.0, react-aria-components@npm:^1.7.1, react-aria-components@workspace:../../packages/react-aria-components":
   version: 0.0.0-use.local
   resolution: "react-aria-components@workspace:../../packages/react-aria-components"
   dependencies:
     "@internationalized/date": "npm:^3.12.2"
-    "@react-types/shared": "npm:^3.35.0"
+    "@internationalized/string": "npm:^3.2.9"
+    "@react-types/shared": "npm:^3.36.0"
     "@swc/helpers": "npm:^0.5.0"
     "@tailwindcss/postcss": "npm:^4.0.0"
     client-only: "npm:^0.0.1"
     react: "npm:^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
-    react-aria: "npm:3.49.0"
+    react-aria: "npm:3.50.0"
     react-dom: "npm:^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
-    react-stately: "npm:3.47.0"
+    react-stately: "npm:3.48.0"
   peerDependencies:
     react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
     react-dom: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
   languageName: unknown
   linkType: soft
 
-"react-aria@npm:3.49.0, react-aria@npm:^3.40.0, react-aria@npm:^3.47.0, react-aria@npm:^3.48.0, react-aria@workspace:../../packages/react-aria":
+"react-aria@npm:3.50.0, react-aria@npm:^3.40.0, react-aria@npm:^3.47.0, react-aria@npm:^3.48.0, react-aria@workspace:../../packages/react-aria":
   version: 0.0.0-use.local
   resolution: "react-aria@workspace:../../packages/react-aria"
   dependencies:
@@ -15518,13 +15528,13 @@ __metadata:
     "@internationalized/date": "npm:^3.12.2"
     "@internationalized/number": "npm:^3.6.7"
     "@internationalized/string": "npm:^3.2.9"
-    "@react-types/shared": "npm:^3.35.0"
+    "@react-types/shared": "npm:^3.36.0"
     "@swc/helpers": "npm:^0.5.0"
     aria-hidden: "npm:^1.2.3"
     clsx: "npm:^2.0.0"
     react: "npm:^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
     react-dom: "npm:^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
-    react-stately: "npm:3.47.0"
+    react-stately: "npm:3.48.0"
     use-sync-external-store: "npm:^1.6.0"
   peerDependencies:
     react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
@@ -15623,7 +15633,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-stately@npm:3.47.0, react-stately@npm:^3.38.0, react-stately@npm:^3.46.0, react-stately@workspace:../../packages/react-stately":
+"react-stately@npm:3.48.0, react-stately@npm:^3.38.0, react-stately@npm:^3.46.0, react-stately@workspace:../../packages/react-stately":
   version: 0.0.0-use.local
   resolution: "react-stately@workspace:../../packages/react-stately"
   dependencies:
@@ -15632,7 +15642,7 @@ __metadata:
     "@internationalized/date": "npm:^3.12.2"
     "@internationalized/number": "npm:^3.6.7"
     "@internationalized/string": "npm:^3.2.9"
-    "@react-types/shared": "npm:^3.35.0"
+    "@react-types/shared": "npm:^3.36.0"
     "@swc/helpers": "npm:^0.5.0"
     react: "npm:^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1"
     use-sync-external-store: "npm:^1.6.0"
@@ -16659,6 +16669,7 @@ __metadata:
     "@parcel/reporter-cli": "npm:^2.16.3"
     "@parcel/utils": "npm:^2.16.3"
     http-proxy-middleware: "npm:^2.0.6"
+    parcel-reporter-turbosnap-stats: "npm:0.0.0"
     react: "npm:*"
     storybook: "npm:^10.0.0"
   peerDependencies:
