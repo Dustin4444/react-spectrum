@@ -203,7 +203,7 @@
     "rehype-stringify": "^9.0.4",
     "rimraf": "^6.0.1",
     "shadow-dom-testing-library": "^1.13.1",
-    "sharp": "^0.33.5",
+    "sharp": "^0.35.0",
     "storybook": "^10.0.0",
     "storybook-react-parcel": "workspace:^",
     "tailwind-variants": "patch:tailwind-variants@npm%3A0.3.1#~/.yarn/patches/tailwind-variants-npm-0.3.1-48888516de.patch",
