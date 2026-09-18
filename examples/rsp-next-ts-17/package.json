@@ -15,7 +15,7 @@
     "@spectrum-icons/illustrations": "latest",
     "@spectrum-icons/workflow": "latest",
     "glob": "^11.0.3",
-    "next": "^12",
+    "next": "^15",
     "next-transpile-modules": "^10.0.0",
     "react": "^17",
     "react-dom": "^17"
