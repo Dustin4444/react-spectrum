@@ -16,7 +16,7 @@
     "@spectrum-icons/illustrations": "latest",
     "@spectrum-icons/workflow": "latest",
     "glob": "^11.0.3",
-    "next": "16.2.9",
+    "next": "16.2.11",
     "react": "^19",
     "react-aria-components": "latest",
     "react-dom": "^19"
