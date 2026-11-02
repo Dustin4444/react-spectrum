@@ -21,7 +21,7 @@
     "react": "^19.2.0",
     "react-aria-components": "^1.14.0",
     "react-dom": "^19.2.0",
-    "storybook": "^9.0.18",
+    "storybook": "^8.6.19",
     "typescript": "^5.8.2"
   },
   "resolutions": {
